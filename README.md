@@ -1,5 +1,5 @@
 
-Hi, I'm Patience Ayirezang 👋
+Hi, I'm Patience Ayirezang 
 
 About Me
 
