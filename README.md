@@ -29,4 +29,4 @@ I’m a teacher and a mom learning full stack development I enjoy building pract
 
  Fun Fact
  
- I balance learning full-stack development while teaching and being a mom  proving that passion and consistency beat time limits! 
+ I balance learning full-stack development while teaching and being a mom proving that passion and consistency beat time limits! 
