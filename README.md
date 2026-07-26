@@ -3,7 +3,7 @@ Hi, I'm Patience Ayirezang
 
 About Me
 
-I’m a teacher and a mom learning full stack development I enjoy building practical web applications using JavaScript, Node.js, Express, MongoDB, and React. I’m passionate about solving problems, learning continuously, and turning ideas into working projects.
+I’m currently  learning full stack development and  I enjoy building practical web applications using JavaScript, Node.js, Express, MongoDB, and React. I’m passionate about solving problems, learning continuously, and turning ideas into working projects.
 
  Skills
  
