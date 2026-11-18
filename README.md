@@ -4,9 +4,9 @@
 
 ## About Me
 
-I'm Patience Ayirezang, an AI engineer and full-stack developer who builds practical, user-facing applications. I work with LLMs, Retrieval-Augmented Generation (RAG) pipelines and modern web stacks — Python, JavaScript, React, Node.js, Express and MongoDB. I enjoy turning ideas into working software and I'm always learning and shipping new projects.
+I'm Patience Ayirezang, an AI engineer and full-stack developer who builds practical, user-facing applications. I work with LLMs, Retrieval-Augmented Generation (RAG) pipelines and modern web stacks  Python, JavaScript, React, Node.js, Express and MongoDB. I enjoy turning ideas into working software and I'm always learning and shipping new projects.
 
-Outside of code, I balance building projects with teaching and being a mom — proof that passion and consistency beat time limits.
+Outside of code, I balance building projects with teaching a proof that passion and consistency beat time limits.
 
 ## Technical Skills
 
