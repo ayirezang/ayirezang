@@ -19,9 +19,10 @@ Outside of code, I balance building projects with teaching a proof that passion 
 ## Projects
 
 - **[AgriConnect AI](https://agriculture-project-pz8n.vercel.app)** — AI Engineer on a team building an LLM-powered marketplace that connects Ghanaian farmers with buyers. Built the buyer-side sourcing agent and outreach pipeline with Groq-hosted LLMs, structured JSON matching and fit scoring based on price, distance and quantity.
+ - **[Early Warning System](https://early-warning-system-shk9.onrender.com/)** — Full-stack app that analyzes continuous assessment data with OpenRouter AI to flag at-risk students and visualize performance trends.
+
 - **[Scholarship Bot](https://scholarshipbot4-0-2.onrender.com)** — AI-powered scholarship search assistant built with Streamlit and Python, using a RAG pipeline over scholarship documents to provide context-specific recommendations.
 - **[Inventory Forecasting Agent](https://github.com/ayirezang/forecastingAgent)** — Full-stack agent that predicts next week's product demand from sales history using a local Llama 3.2 model served by Ollama.
-- **[Early Warning System](https://early-warning-system-shk9.onrender.com/)** — Full-stack app that analyzes continuous assessment data with OpenRouter AI to flag at-risk students and visualize performance trends.
 
 
 ## Connect with Me
