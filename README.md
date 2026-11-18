@@ -22,7 +22,6 @@ Outside of code, I balance building projects with teaching a proof that passion 
 - **[Scholarship Bot](https://scholarshipbot4-0-2.onrender.com)** — AI-powered scholarship search assistant built with Streamlit and Python, using a RAG pipeline over scholarship documents to provide context-specific recommendations.
 - **[Inventory Forecasting Agent](https://github.com/ayirezang/forecastingAgent)** — Full-stack agent that predicts next week's product demand from sales history using a local Llama 3.2 model served by Ollama.
 - **[Early Warning System](https://early-warning-system-shk9.onrender.com/)** — Full-stack app that analyzes continuous assessment data with OpenRouter AI to flag at-risk students and visualize performance trends.
-- **[Travel Journal App](https://github.com/ayirezang/travel-journal)** — Full-stack travel journal with JWT authentication, built with MongoDB, Express, React and Node.js. [Live demo](https://travel-journal-brown-gamma.vercel.app/).
 
 
 ## Connect with Me
