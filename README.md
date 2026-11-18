@@ -1,6 +1,6 @@
 # Patience Ayirezang
 
-**AI Engineer & Full-Stack Developer**
+**AI Engineer and Full-Stack Developer**
 
 ## About Me
 
